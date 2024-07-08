@@ -10,4 +10,6 @@ A command-line tool to chop out a column (for when you cant remember the awk-com
 ## Develop
 
 > nix-shell
+
+
 > go build
