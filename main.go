@@ -26,6 +26,7 @@ func chop(col int, line string) (ret string) {
 }
 
 func main() {
+
 	var nFlag = flag.Int("n", 0, "0-indexed column to pick out")
 
 	flag.Parse()
